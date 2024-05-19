@@ -9,5 +9,5 @@
 ## Используемые навыки и инструменты
 Python, Pandas, Matplotlib,  Seaborn, когортный анализ, юнит-экономика, продуктовые метрики
 
-
-
+## Дополнительная ссылка на проект
+С проектом можно ознакомиться также [по ссылке](https://nbviewer.org/github/e-galushina/Yandex-Practicum/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.ipynb)
